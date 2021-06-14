@@ -2,6 +2,8 @@
 
 # Проект Эмодзи на Реакте
 
+Как найти: https://sergeivaskin1991.github.io/emoji-critic
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
