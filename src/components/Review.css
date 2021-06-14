@@ -34,7 +34,9 @@ p.review__rating {
   cursor: pointer;
 }
 .button_type_back {
-  
-  
-  border-radius: 50px;
+  background-color: #fff;
+  color: #000;
+  text-decoration: none;
+  font-family: 'Roboto';
+  padding: 15px 60px;
 }
